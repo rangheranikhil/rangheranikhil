@@ -1,5 +1,5 @@
-# rangherankhil
-### Hi there 👋 I am Nikhil Ranghera.    | WELCOME TO MY GITHUB PROFILE 💐 |
+## | WELCOME TO MY GITHUB PROFILE 💐 |
+### Hi there 👋 I am Nikhil Ranghera
 #### Data Analyst | Data Science Enthusiast
 
 ### About Me
